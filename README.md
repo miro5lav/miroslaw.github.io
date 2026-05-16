@@ -1,2 +1,9 @@
-# miroslaw.github.io
-This is new personnal page repository
+
+- 👋 Hi, I’m @miro5lav
+- 👀 I’m interested in sailing and traveling.
+- 🌱 I’m currently learning Python and how to use Snowflake .
+- 💞️ I’m looking to collaborate on Python and SQL projects with modern datastack tools.
+- 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/mirrad/.
+
+
+<h3><a href="{{ '/docs/about' | relative_url }}">Contact me</a></h3>
